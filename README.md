@@ -1,6 +1,9 @@
 # Game-design-project
 A FPS game demo 
 The game is designed using UNITY
+Source_code.zip contains the source code of the game and can be edit using UNITY
+Demo.zip contains the game demo and can be played directly
+Trailer.mp4 is the trailer of the game
 
 How to Play：
 The winning condition: 
